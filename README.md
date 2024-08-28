@@ -3,7 +3,7 @@
 
    <center>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Hugo-Js" height="50" width="40" src="https://www.lance.com.br/galerias/wp-content/uploads/2020/08/Corinthians.jpg">
+    <img align="center" alt="Hugo-Js" height="100" width="60" src="https://static.corinthians.com.br/uploads/d35b05a832e2bb91f110d54e34e2da79.jpg">
    </center>
 
 <!---
