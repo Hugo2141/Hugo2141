@@ -3,7 +3,7 @@
 
    <center>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Hugo-Js" height="150" width="150" src="https://static.corinthians.com.br/uploads/d35b05a832e2bb91f110d54e34e2da79.jpg">
+    <img align="center" alt="Hugo-Js" height="150" width="150" src="https://static.gazetaesportiva.com/uploads/imagem/2022/12/16/agenciacorinthians-foto-44269.jpg">
    </center>
 
 <!---
