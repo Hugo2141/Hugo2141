@@ -3,7 +3,8 @@
 
    <center>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Hugo-Js" height="150" width="150" src="https://static.gazetaesportiva.com/uploads/imagem/2022/12/16/agenciacorinthians-foto-44269.jpg">
+    <img align="center" alt="Hugo-Js" height="150" width="150" src="https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/ed0b6b57-3242-11ef-aa78-d602bea5d5c0/burro-shrek.png"
+">
    </center>
 
 <!---
