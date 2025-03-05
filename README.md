@@ -1,4 +1,5 @@
-- Olá, me chamo Hugo, Atualmente estou aprendendo programação
+- lembrete: https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_navbar
+            https://templated.co/hielo/
 
 
    <center>
